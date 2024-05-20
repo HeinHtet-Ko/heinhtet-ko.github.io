@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cdl.citynexus.cn20",
+    "sha256_cert_fingerprints":
+    ["9F:8A:B4:20:A3:BB:34:9C:F5:05:E7:D8:A3:8E:82:0A:FA:51:24:43:7F:A1:93:5B:66:A9:BE:3D:84:BA:EE:73"]
+  }
+}]
